@@ -6,3 +6,5 @@ Ginger (Zingiber officinale) is one of the most valued spice plants worldwide; i
 
 # Data availability
 This Whole-Genome Shotgun Project data have been deposited in DDBJ/ENA/GenBank under the accession identifier JACMSC000000000. The version described in this paper is version JACMSC010000000. The raw sequence data have been deposited in the Short Read Archive under NCBI BioProject ID PRJNA647255.
+
+Now, for the convenience of use, we store a copy of the genome data here.
